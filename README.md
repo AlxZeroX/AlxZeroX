@@ -1,7 +1,7 @@
 ## ¡Hola soy Cristian Martinez, creador de contenido en Youtube y apasionado por la tecnología!
 <div align="center">
   <a href="https://github.com/AlxZeroX">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alxzerox"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlxZeroX&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlxZeroX&layout=compact&langs_count=7&theme=dracula"/>
 </div>
