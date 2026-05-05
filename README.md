@@ -5,9 +5,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/AlxZeroX">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Desarrollador+Full+Stack;Creador+de+Contenido+en+YouTube;Angular+%7C+Node.js+%7C+MySQL;Linux+%7C+Servidores+%7C+Ciberseguridad" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Desarrollador+Full+Stack;Creador+de+Contenido+en+YouTube;Angular+%7C+Node.js+%7C+MySQL;Linux+%7C+Servidores+%7C+Ciberseguridad" />
 </p>
 
 <p align="center">
@@ -16,7 +14,7 @@
 
 ---
 
-# 🚀 Sobre mí
+## 🚀 Sobre mí
 
 - 🔭 Actualmente trabajando en sistemas web institucionales
 - 🌱 Aprendiendo más sobre infraestructura, Linux y ciberseguridad
@@ -26,7 +24,7 @@
 
 ---
 
-# 🛠️ Tecnologías y Herramientas
+## 🛠️ Tecnologías y Herramientas
 
 <div align="center">
 
@@ -36,50 +34,27 @@
 
 ---
 
-# 📊 Estadísticas GitHub
+## 🔥 Racha de Contribuciones
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alxzerox&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxzerox&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800"/>
+<img src="https://streak-stats.demolab.com?user=AlxZeroX&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 🔥 Racha de Contribuciones
+## 🏆 Trofeos GitHub
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=alxzerox&theme=tokyonight" />
+<img src="https://github-profile-trophy.vercel.app/?username=AlxZeroX&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15" />
 
 </div>
 
 ---
 
-# 🏆 Trofeos GitHub
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=alxzerox&theme=tokyonight&row=1&column=6" />
-
-</div>
-
----
-
-# 🚀 Proyectos Destacados
-
-| Proyecto | Descripción |
-|----------|-------------|
-| SSS | Sistema de Solicitudes de Solvencia |
-| SISE | Sistema de Expedientes |
-| Portal PGR | Plataforma web institucional |
-| Automatizaciones | Scripts y herramientas de automatización |
-
----
-
-# 🌐 Redes Sociales
+## 🌐 Redes Sociales
 
 <div align="center">
 
@@ -103,17 +78,17 @@
 
 ---
 
-# 🐍 Contribuciones
+## 🐍 Contribuciones
 
 <div align="center">
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/AlxZeroX/AlxZeroX/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
 ---
 
-# ✨ Frase Favorita
+## ✨ Frase Favorita
 
 <div align="center">
 
