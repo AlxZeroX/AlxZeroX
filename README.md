@@ -6,19 +6,23 @@
 
 <p align="center">
   <a href="https://github.com/AlxZeroX">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Desarrollador+Full+Stack;Creador+de+Contenido+en+YouTube;Angular+%7C+Node.js+%7C+MySQL;Apasionado+por+la+Ciberseguridad+y+Servidores" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Desarrollador+Full+Stack;Creador+de+Contenido+en+YouTube;Angular+%7C+Node.js+%7C+MySQL;Linux+%7C+Servidores+%7C+Ciberseguridad" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alxzerox&label=Visitas&color=blueviolet&style=flat" />
 </p>
 
 ---
 
 # 🚀 Sobre mí
 
-- 🔭 Actualmente trabajando en sistemas institucionales y plataformas web
-- 🌱 Aprendiendo más sobre infraestructura, servidores y ciberseguridad
-- 💡 Apasionado por Angular, Node.js, MySQL y Linux
+- 🔭 Actualmente trabajando en sistemas web institucionales
+- 🌱 Aprendiendo más sobre infraestructura, Linux y ciberseguridad
+- 💡 Apasionado por Angular, Node.js, MySQL y automatización
 - 🎥 Creador de contenido en YouTube
-- ⚡ Fan de la automatización y nuevas tecnologías
+- ⚡ Fan de servidores, tecnología y desarrollo Full Stack
 
 ---
 
@@ -38,8 +42,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alxzerox&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
 
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxzerox&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxzerox&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800"/>
 
 </div>
 
@@ -49,7 +52,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alxzerox&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=alxzerox&theme=tokyonight" />
 
 </div>
 
@@ -62,6 +65,17 @@
 <img src="https://github-profile-trophy.vercel.app/?username=alxzerox&theme=tokyonight&row=1&column=6" />
 
 </div>
+
+---
+
+# 🚀 Proyectos Destacados
+
+| Proyecto | Descripción |
+|----------|-------------|
+| SSS | Sistema de Solicitudes de Solvencia |
+| SISE | Sistema de Expedientes |
+| Portal PGR | Plataforma web institucional |
+| Automatizaciones | Scripts y herramientas de automatización |
 
 ---
 
