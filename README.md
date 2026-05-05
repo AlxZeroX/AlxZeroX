@@ -34,11 +34,43 @@
 
 ---
 
+## 📊 Estadísticas GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlxZeroX&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlxZeroX&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Racha de Contribuciones
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlxZeroX&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
 ## 🏆 Trofeos GitHub
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AlxZeroX&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=AlxZeroX&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
+
+</div>
+
+---
+
+## 📈 Actividad
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlxZeroX&theme=tokyo-night&hide_border=true" />
 
 </div>
 
