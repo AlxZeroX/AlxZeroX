@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alxzerox&label=Visitas&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=AlxZeroX&label=Visitas&color=blueviolet&style=flat" />
 </p>
 
 ---
@@ -29,16 +29,6 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,angular,react,html,css,bootstrap,python,mysql,mongodb,linux,git,github,vscode,docker" />
-
-</div>
-
----
-
-## 🔥 Racha de Contribuciones
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AlxZeroX&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -73,16 +63,6 @@
 <a href="https://www.linkedin.com/in/cristian-alexander-martinez/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-## 🐍 Contribuciones
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AlxZeroX/AlxZeroX/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
