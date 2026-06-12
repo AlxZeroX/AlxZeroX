@@ -17,7 +17,7 @@
 ## 🚀 Sobre mí
 
 - 🔭 Ingeniero en Sistemas y Profesional de TI enfocado en el desarrollo de sistemas web, infraestructura tecnológica y administración de servidores.
-🌱 Cuento con experiencia en el diseño e implementación de soluciones Full Stack utilizando React, Angular, Node.js y MySQL, así como en la gestión de entornos Linux, servicios web y plataformas empresariales.
+- 🌱 Cuento con experiencia en el diseño e implementación de soluciones Full Stack utilizando React, Angular, Node.js y MySQL, así como en la gestión de entornos Linux, servicios web y plataformas empresariales.
 - 💡 Actualmente amplío mis conocimientos en áreas como DevOps, cloud computing, automatización y ciberseguridad, buscando siempre aplicar buenas prácticas que garanticen rendimiento, escalabilidad y seguridad.
 - ⚡ Apasionado por la tecnología y la mejora continua, disfruto construir soluciones que optimicen procesos y aporten valor a las organizaciones.
 
