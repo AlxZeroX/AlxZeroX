@@ -18,7 +18,7 @@
 
 - 🔭 Actualmente trabajando en sistemas web institucionales
 - 🌱 Aprendiendo más sobre infraestructura, Linux y ciberseguridad
-- 💡 Apasionado por Angular, Node.js, MySQL y automatización
+- 💡 Apasionado por React, Angular, Node.js, MySQL y automatización
 - 🎥 Creador de contenido en YouTube
 - ⚡ Fan de servidores, tecnología y desarrollo Full Stack
 
